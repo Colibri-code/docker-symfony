@@ -1,0 +1,4 @@
+172.26.0.1 - - [22/Apr/2020:06:22:10 +0000] "GET / HTTP/1.1" 200 12193 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"
+172.26.0.1 - - [22/Apr/2020:06:22:11 +0000] "GET /_wdt/a8ad38 HTTP/1.1" 200 3700 "http://symfony.localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"
+172.26.0.1 - - [22/Apr/2020:06:22:54 +0000] "GET / HTTP/1.1" 200 12195 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"
+172.26.0.1 - - [22/Apr/2020:06:22:54 +0000] "GET /_wdt/d5b3f8 HTTP/1.1" 200 3695 "http://symfony.localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"
