@@ -59,10 +59,6 @@ You can access Nginx and Symfony application logs in the following directories o
 * `logs/nginx`
 * `logs/symfony`
 
-# Use Kibana!
-
-You can also use Kibana to visualize Nginx & Symfony logs by visiting `http://symfony.localhost:81`.
-
 # Use xdebug!
 
 Configure your IDE to use port 5902 for XDebug.
